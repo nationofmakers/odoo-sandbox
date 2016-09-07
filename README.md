@@ -14,7 +14,7 @@ https://www.docker.com/products/docker to get it on your local system._
 
 1. `git clone https://github.com/nation-of-makers/odoo-sandbox.git`
 2. `cd odoo-sandbox`
-3. `docker-compose up`
+3. `sudo docker-compose up`
 4. Open your browser to `http://localhost:8069/`.
 5. Have fun.
 
